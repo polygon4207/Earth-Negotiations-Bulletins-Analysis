@@ -1,4 +1,4 @@
 .DS_Store
-bulletins/
-bulletins_outputs/
-data/
+data/csv_entities
+data/pdf_data
+data/txt_data
