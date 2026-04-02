@@ -248,20 +248,20 @@ UAE,UNITED ARAB EMIRATES (UAE)
 "United Arab 
 Emirates",UNITED ARAB EMIRATES (UAE)
 United Arab Emirates,UNITED ARAB EMIRATES (UAE)
-London,UNITED KINGDOM (UK)
+London,UK
 "the United
-Kingdom",UNITED KINGDOM (UK)
-the United Kingdom,UNITED KINGDOM (UK)
-UK,UNITED KINGDOM (UK)
-United Kingdom,UNITED KINGDOM (UK)
-The United States,UNITED STATES OF AMERICA (USA)
-the United States,UNITED STATES OF AMERICA (USA)
-the United States of America,UNITED STATES OF AMERICA (USA)
-US,UNITED STATES OF AMERICA (USA)
-USA,UNITED STATES OF AMERICA (USA)
-Washington,UNITED STATES OF AMERICA (USA)
-Washington DC,UNITED STATES OF AMERICA (USA)
-"Washington, DC",UNITED STATES OF AMERICA (USA)
+Kingdom",UK
+the United Kingdom,UK
+UK,UK
+United Kingdom,UK
+The United States,USA
+the United States,USA
+the United States of America,USA
+US,USA
+USA,USA
+Washington,USA
+Washington DC,USA
+"Washington, DC",USA
 Uruguay,URUGUAY
 Venezuela,VENEZUELA
 VIETNAM,VIETNAM
@@ -271,14 +271,13 @@ Yugoslavia,YUGOSLAVIA
 Harare,ZIMBABWE
 Zimbabwe,ZIMBABWE
 ZIMBABWE,ZIMBABWE
-G-77,G77
 Alliance of Small Island States,AOSIS
 AOSIS,AOSIS
 Like-Minded Group of Developing Countries,LMDCs
 LMDC,LMDCs
 African Group,AFRICAN GROUP
 Asia and the Pacific Group,ASIA AND THE PACIFIC GROUP
-Eastern European Group ,EEG
+"Eastern European Group ",EEG
 Latin American and Caribbean Group,GRULAC
 Western European and Others Group,WEOG
 EEG,EEG
@@ -304,3 +303,5 @@ OECD,OECD
 Organisation for Economic Co-operation and Development,OECD
 Organisation of the Petroleum Exporting Countries,OPEC
 OPEC,OPEC
+G-77/CHINA,G-77/CHINA
+G-77/China,G-77/CHINA
