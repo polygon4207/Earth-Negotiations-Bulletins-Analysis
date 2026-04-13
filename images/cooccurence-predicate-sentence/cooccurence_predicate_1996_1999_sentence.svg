@@ -1,748 +1,761 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="2321.7202"
+<svg contentScriptType="text/ecmascript" width="2280.5928"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-1225.079590 -1172.000000 2321.720215 2339.000000" height="2339.0"
+     viewBox="-1101.865845 -1605.000000 2280.592773 3022.000000" height="3022.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
-        <path stroke-linecap="round" fill="none"
-              class="id_AOSIS id_EUROPEAN_UNION"
-              d="M 457.107971,-478.282623 A 66.649765,66.649765 0,0 1,465.014191,-519.662964"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_AOSIS id_CHINA"
-              d="M 473.196777,-435.853363 A 121.419482,121.419482 0,0 1,462.363373,-334.434601"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_AUSTRALIA id_USA"
-              d="M 29.648430,316.676483 A 154.255568,154.255568 0,0 1,-41.746094,211.403687"
-              stroke="#00ff00" stroke-width="5.5" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_AUSTRALIA id_BANGLADESH"
-              d="M 58.038094,357.156464 A 170.977433,170.977433 0,0 1,-8.288633,497.263092"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_AUSTRALIA id_MALAYSIA"
-              d="M 82.714714,333.806610 A 184.484958,184.484958 0,0 1,210.942520,447.573944"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_AUSTRALIA id_NORWAY"
-              d="M 49.095840,301.574310 A 202.278472,202.278472 0,0 1,112.788483,124.511559"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_IRAN"
-              d="M -53.668926,134.615631 A 148.126151,148.126151 0,0 1,-16.522436,15.602867"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_BANGLADESH"
-              d="M -21.342194,204.581100 A 284.710606,284.710606 0,0 1,-17.865597,487.735199"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_CANADA"
-              d="M -42.622139,133.268585 A 271.832621,271.832621 0,0 1,112.734123,-87.538345"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_MALAYSIA"
-              d="M -5.830556,182.932236 A 335.515657,335.515657 0,0 1,215.908691,446.587708"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_NORWAY"
-              d="M -18.726046,142.081146 A 164.928544,164.928544 0,0 1,105.872887,96.228386"
-              stroke="#00ff00" stroke-width="10.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_NIGERIA"
-              d="M -6.329544,160.132431 A 300.610467,300.610467 0,0 1,292.210266,249.984680"
-              stroke="#ff0000" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_USA id_SLOVENIA"
-              d="M -75.428085,194.850861 A 205.745638,205.745638 0,0 1,-270.149811,199.736633"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_BURKINA_FASO id_IRAN"
-              d="M -21.847504,-41.844387 A 53.605332,53.605332 0,0 1,-5.382244,-22.088074"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_CHINA id_G-77/CHINA"
-              d="M 434.065125,-286.203644 A 162.412065,162.412065 0,0 1,308.043030,-201.402740"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_CHINA id_SAUDI_ARABIA"
-              d="M 418.156525,-304.073700 A 376.157415,376.157415 0,0 1,31.560097,-432.468445"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_CHINA id_INDIA"
-              d="M 473.347168,-312.595001 A 188.541850,188.541850 0,0 1,626.973389,-216.583618"
-              stroke="#00ff00" stroke-width="5.5" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_MALAYSIA id_BANGLADESH"
-              d="M 196.072342,497.543884 A 213.666373,213.666373 0,0 1,-6.228073,526.708557"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_MALAYSIA id_NORWAY"
-              d="M 197.264023,455.750336 A 319.012057,319.012057 0,0 1,128.143372,136.197784"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_MALAYSIA id_MEXICO"
-              d="M 249.915497,482.371948 A 144.197700,144.197700 0,0 1,345.824432,569.781067"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_DENMARK id_SWEDEN"
-              d="M -639.627747,10.972933 A 64.493743,64.493743 0,0 1,-675.255493,-5.930645"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_DENMARK id_SWITZERLAND"
-              d="M -594.980347,4.035419 A 84.435084,84.435084 0,0 1,-535.201965,18.982861"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_EL_SALVADOR id_PHILIPPINES"
-              d="M -549.356567,-1121.046387 A 47.086103,47.086103 0,0 1,-564.590393,-1134.214478"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_GEORGIA id_INDIA"
-              d="M 708.674438,-138.096680 A 90.815375,90.815375 0,0 1,650.729675,-171.609070"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_GEORGIA id_PAKISTAN"
-              d="M 753.766357,-133.594406 A 86.016327,86.016327 0,0 1,801.485168,-95.588837"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_INDIA id_PAKISTAN"
-              d="M 663.330017,-192.554962 A 176.340999,176.340999 0,0 1,801.478149,-95.585983"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_PAKISTAN id_AZERBAIJAN"
-              d="M 836.381348,-69.078178 A 91.143178,91.143178 0,0 1,892.044556,-26.819864"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_INDONESIA id_UGANDA"
-              d="M -387.924347,-451.801636 A 57.071378,57.071378 0,0 1,-357.872803,-453.620758"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_UGANDA id_SOUTH_AFRICA"
-              d="M -317.627563,-456.508118 A 96.973441,96.973441 0,0 1,-240.590836,-458.365601"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_JAPAN id_NORWAY"
-              d="M -280.942932,34.737041 A 375.746369,375.746369 0,0 1,114.276276,78.574722"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_JAPAN id_SLOVENIA"
-              d="M -289.109741,70.515503 A 117.855042,117.855042 0,0 1,-280.294617,167.751923"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_JAPAN id_MARSHALL_ISLANDS"
-              d="M -315.806427,21.490683 A 114.705094,114.705094 0,0 1,-298.620514,-70.698868"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_JAPAN id_SWITZERLAND"
-              d="M -330.591125,61.414589 A 177.637729,177.637729 0,0 1,-500.426270,48.143692"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_KUWAIT id_VENEZUELA"
-              d="M 17.877096,-1012.444031 A 47.263601,47.263601 0,0 1,5.977682,-1028.968262"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_SAUDI_ARABIA id_RUSSIA"
-              d="M 15.472671,-478.264679 A 80.172262,80.172262 0,0 1,41.833649,-528.055176"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_SAUDI_ARABIA id_SOUTH_AFRICA"
-              d="M -4.708126,-438.412964 A 197.502726,197.502726 0,0 1,-201.449661,-435.297272"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_SUDAN id_TURKMENISTAN"
-              d="M -566.988525,834.003967 A 47.246267,47.246267 0,0 1,-582.031311,847.695557"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_ARGENTINA id_MALTA"
-              d="M -641.918823,-747.945007 A 46.302234,46.302234 0,0 1,-660.246216,-742.446045"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_BANGLADESH id_NORWAY"
-              d="M -40.421707,483.574768 A 372.924739,372.924739 0,0 1,111.119087,122.131767"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_BANGLADESH id_BHUTAN"
-              d="M -35.096481,544.781738 A 146.179448,146.179448 0,0 1,-109.640030,653.930969"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_NORWAY id_CANADA"
-              d="M 122.730293,71.431419 A 167.189693,167.189693 0,0 1,124.234100,-74.050949"
-              stroke="#00ff00" stroke-width="5.5" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_NORWAY id_ICELAND"
-              d="M 173.960876,85.677132 A 189.915433,189.915433 0,0 1,353.256805,105.705833"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_CANADA id_G-77/CHINA"
-              d="M 150.120346,-123.978027 A 148.961901,148.961901 0,0 1,262.624084,-199.612473"
-              stroke="#ff0000" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_CANADA id_SOUTH_KOREA"
-              d="M 111.553940,-105.196854 A 95.527512,95.527512 0,0 1,60.423321,-156.933624"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_BRAZIL id_KENYA"
-              d="M 651.691772,920.425781 A 46.463020,46.463020 0,0 1,638.801514,934.843933"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none" class="id_GHANA id_UK"
-              d="M -1040.732056,579.668884 A 46.987691,46.987691 0,0 1,-1036.500244,599.226868"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_JAMAICA id_MARSHALL_ISLANDS"
-              d="M -252.236694,-122.000534 A 52.993690,52.993690 0,0 1,-264.928650,-100.530281"
-              stroke="#00ff00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 392.900543,-99.300789 L 385.372589,-44.968040"
+              class="id_AOSIS id_EUROPEAN_UNION" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 397.617584,-144.484039 L 401.125000,-194.246292"
+              class="id_AOSIS id_CHINA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="5.5"
+              d="M 7.707873,265.966156 L 1.122380,39.094891"
+              class="id_AUSTRALIA id_USA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.483063,322.301666 L 14.077066,457.439209"
+              class="id_AUSTRALIA id_BANGLADESH" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.433453,290.216248 L 142.859741,275.267975"
+              class="id_AUSTRALIA id_MALAYSIA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.453610,277.821320 L -105.998428,212.826294"
+              class="id_AUSTRALIA id_NORWAY" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.455597,-32.663876 L -297.436035,-453.310211"
+              class="id_USA id_IRAN" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.199502,39.092575 L 14.169400,457.436188"
+              class="id_USA id_BANGLADESH" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.964182,-37.504826 L -43.539749,-149.116394"
+              class="id_USA id_CANADA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.066566,32.941551 L 156.801727,244.938141"
+              class="id_USA id_MALAYSIA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -22.586124,31.934408 L -114.649666,162.087570"
+              class="id_USA id_NORWAY" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.317593,7.698508 L 127.654068,25.594181"
+              class="id_USA id_NIGERIA" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.038593,2.259288 L -283.113159,16.261101"
+              class="id_USA id_SLOVENIA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.995819,-512.288635 L -321.634674,-491.778168"
+              class="id_BURKINA_FASO id_IRAN" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 374.932373,-221.698044 L 146.038727,-216.333344"
+              class="id_CHINA id_G-77/CHINA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.547394,-249.209015 L 327.960876,-458.097900"
+              class="id_CHINA id_SAUDI_ARABIA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="5.5"
+              d="M 428.413727,-209.958527 L 797.953979,-28.894299"
+              class="id_CHINA id_INDIA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 155.268997,295.951843 L 33.326607,463.347351"
+              class="id_MALAYSIA id_BANGLADESH" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 143.526306,263.297821 L -100.423004,200.799637"
+              class="id_MALAYSIA id_NORWAY" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 204.104980,275.064056 L 315.618195,289.970398"
+              class="id_MALAYSIA id_MEXICO" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.237000,-142.348099 L -895.509705,-170.626617"
+              class="id_DENMARK id_SWEDEN" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.486389,-111.029900 L -786.133850,-69.109344"
+              class="id_DENMARK id_SWITZERLAND" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -669.510437,-1360.488525 L -686.255188,-1360.030884"
+              class="id_EL_SALVADOR id_PHILIPPINES" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 967.478149,-5.649422 L 846.181335,-15.610982"
+              class="id_GEORGIA id_INDIA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 987.839355,18.822430 L 983.977478,56.957680"
+              class="id_GEORGIA id_PAKISTAN" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.421631,-4.242110 L 959.803406,68.830376"
+              class="id_INDIA id_PAKISTAN" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1002.521606,96.507790 L 1058.519653,134.244553"
+              class="id_PAKISTAN id_AZERBAIJAN" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 289.532166,-859.614319 L 294.043915,-834.205688"
+              class="id_INDONESIA id_UGANDA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 301.191040,-789.323853 L 311.119537,-718.920410"
+              class="id_UGANDA id_SOUTH_AFRICA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.162842,119.311935 L -170.856873,182.679993"
+              class="id_JAPAN id_NORWAY" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -420.231384,96.289597 L -324.526978,30.444788"
+              class="id_JAPAN id_SLOVENIA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.227417,128.857178 L -555.106567,193.604630"
+              class="id_JAPAN id_MARSHALL_ISLANDS" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -468.516418,99.385590 L -748.312256,-44.351852"
+              class="id_JAPAN id_SWITZERLAND" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.186573,-649.490112 L -0.965578,-656.447571"
+              class="id_KUWAIT id_VENEZUELA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 296.587524,-472.918060 L 245.976196,-452.727051"
+              class="id_SAUDI_ARABIA id_RUSSIA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 319.524414,-507.794861 L 314.923248,-673.697266"
+              class="id_SAUDI_ARABIA id_SOUTH_AFRICA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.100830,1332.068481 L -334.954956,1339.831421"
+              class="id_SUDAN id_TURKMENISTAN" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -569.748291,-243.458832 L -582.378418,-253.934174"
+              class="id_ARGENTINA id_MALTA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.118858,460.777985 L -119.168564,224.189636"
+              class="id_BANGLADESH id_NORWAY" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.925526,517.645386 L 70.473808,653.918335"
+              class="id_BANGLADESH id_BHUTAN" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="5.5"
+              d="M -127.536034,156.327927 L -57.723156,-148.698029"
+              class="id_NORWAY id_CANADA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -105.897682,212.683685 L 297.591278,496.248779"
+              class="id_NORWAY id_ICELAND" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.951704,-182.402420 L 101.153259,-210.774277"
+              class="id_CANADA id_G-77/CHINA" stroke-opacity="1.0"
+              stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.988708,-185.611328 L -200.546722,-229.190948"
+              class="id_CANADA id_SOUTH_KOREA" stroke-opacity="1.0"
+              stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 657.146118,-1047.125610 L 649.902039,-1061.723877"
+              class="id_BRAZIL id_KENYA" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.659546,1389.942871 L -784.666809,1393.121826"
+              class="id_GHANA id_UK" stroke-opacity="1.0" stroke="#00ff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -597.992188,258.391052 L -583.259766,227.500488"
+              class="id_JAMAICA id_MARSHALL_ISLANDS" stroke-opacity="1.0"
+              stroke="#00ff00"/>
     </g>
     <g id="nodes">
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8" class="id_AOSIS"
-                cx="463.91345" cy="-456.5982"/>
-        <circle fill="none" r="20.90909" cx="463.91345" cy="-456.5982"
+                cx="396.01965" cy="-121.813"/>
+        <circle fill="none" r="20.90909" cx="396.01965" cy="-121.813"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_EUROPEAN_UNION" cx="477.2916" cy="-535.4511"/>
-        <circle fill="none" r="18.4" cx="477.2916" cy="-535.4511"
+                class="id_EUROPEAN_UNION" cx="382.62775" cy="-25.157288"/>
+        <circle fill="none" r="18.4" cx="382.62775" cy="-25.157288"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="23.672728" fill-opacity="0.8"
-                class="id_AUSTRALIA" cx="54.92068" cy="329.14758"/>
-        <circle fill="none" r="25.927273" cx="54.92068" cy="329.14758"
+                class="id_AUSTRALIA" cx="8.525575" cy="294.1361"/>
+        <circle fill="none" r="25.927273" cx="8.525575" cy="294.1361"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.509091"/>
         <circle fill="#ffb300" r="32.836365" fill-opacity="0.8" class="id_USA"
-                cx="-43.461994" cy="172.35046"/>
-        <circle fill="none" r="35.963634" cx="-43.461994" cy="172.35046"
+                cx="-0.011850917" cy="0.020442743"/>
+        <circle fill="none" r="35.963634" cx="-0.011850917" cy="0.020442743"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="6.254545"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_BURKINA_FASO" cx="-39.890106" cy="-50.47367"/>
-        <circle fill="none" r="18.4" cx="-39.890106" cy="-50.47367"
+                class="id_BURKINA_FASO" cx="-344.3194" cy="-529.4183"/>
+        <circle fill="none" r="18.4" cx="-344.3194" cy="-529.4183"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8" class="id_IRAN"
-                cx="-0.0034305714" cy="-0.006468467"/>
-        <circle fill="none" r="20.90909" cx="-0.0034305714" cy="-0.006468467"
+                cx="-309.90332" cy="-472.3127"/>
+        <circle fill="none" r="20.90909" cx="-309.90332" cy="-472.3127"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="23.672728" fill-opacity="0.8" class="id_CHINA"
-                cx="445.1696" cy="-312.1055"/>
-        <circle fill="none" r="25.927273" cx="445.1696" cy="-312.1055"
+                cx="403.10645" cy="-222.35837"/>
+        <circle fill="none" r="25.927273" cx="403.10645" cy="-222.35837"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.509091"/>
         <circle fill="#ffb300" r="25.963638" fill-opacity="0.8"
-                class="id_MALAYSIA" cx="219.42604" cy="477.29602"/>
-        <circle fill="none" r="28.436365" cx="219.42604" cy="477.29602"
+                class="id_MALAYSIA" cx="173.46838" cy="270.96878"/>
+        <circle fill="none" r="28.436365" cx="173.46838" cy="270.96878"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.9454546"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_DENMARK" cx="-616.9233" cy="9.954637"/>
-        <circle fill="none" r="20.90909" cx="-616.9233" cy="9.954637"
+                class="id_DENMARK" cx="-855.0923" cy="-125.402115"/>
+        <circle fill="none" r="20.90909" cx="-855.0923" cy="-125.402115"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_SWEDEN"
-                cx="-687.5402" cy="-21.713083"/>
-        <circle fill="none" r="18.4" cx="-687.5402" cy="-21.713083"
+                cx="-908.83704" cy="-185.53908"/>
+        <circle fill="none" r="18.4" cx="-908.83704" cy="-185.53908"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_EL_SALVADOR" cx="-530.1538" cy="-1115.4558"/>
-        <circle fill="none" r="18.4" cx="-530.1538" cy="-1115.4558"
+                class="id_EL_SALVADOR" cx="-649.5179" cy="-1361.035"/>
+        <circle fill="none" r="18.4" cx="-649.5179" cy="-1361.035"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_PHILIPPINES" cx="-572.90063" cy="-1152.4062"/>
-        <circle fill="none" r="18.4" cx="-572.90063" cy="-1152.4062"
+                class="id_PHILIPPINES" cx="-706.24774" cy="-1359.4844"/>
+        <circle fill="none" r="18.4" cx="-706.24774" cy="-1359.4844"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_GEORGIA" cx="731.3965" cy="-137.60912"/>
-        <circle fill="none" r="20.90909" cx="731.3965" cy="-137.60912"
+                class="id_GEORGIA" cx="990.12915" cy="-3.789196"/>
+        <circle fill="none" r="20.90909" cx="990.12915" cy="-3.789196"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="21.381819" fill-opacity="0.8" class="id_INDIA"
-                cx="637.8966" cy="-193.59193"/>
-        <circle fill="none" r="23.418182" cx="637.8966" cy="-193.59193"
+                cx="820.8122" cy="-17.694435"/>
+        <circle fill="none" r="23.418182" cx="820.8122" cy="-17.694435"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.072727"/>
         <circle fill="#ffb300" r="21.381819" fill-opacity="0.8"
-                class="id_PAKISTAN" cx="811.0972" cy="-72.0189"/>
-        <circle fill="none" r="23.418182" cx="811.0972" cy="-72.0189"
+                class="id_PAKISTAN" cx="981.41284" cy="82.2827"/>
+        <circle fill="none" r="23.418182" cx="981.41284" cy="82.2827"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.072727"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_INDONESIA"
-                cx="-405.44223" cy="-442.15158"/>
-        <circle fill="none" r="18.4" cx="-405.44223" cy="-442.15158"
+                cx="286.0355" cy="-879.3063"/>
+        <circle fill="none" r="18.4" cx="286.0355" cy="-879.3063"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_UGANDA" cx="-337.00128" cy="-444.62585"/>
-        <circle fill="none" r="20.90909" cx="-337.00128" cy="-444.62585"
+                class="id_UGANDA" cx="298.0174" cy="-811.8284"/>
+        <circle fill="none" r="20.90909" cx="298.0174" cy="-811.8284"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="23.672728" fill-opacity="0.8" class="id_JAPAN"
-                cx="-305.8796" cy="47.866295"/>
-        <circle fill="none" r="25.927273" cx="-305.8796" cy="47.866295"
+                cx="-443.44894" cy="112.26332"/>
+        <circle fill="none" r="25.927273" cx="-443.44894" cy="112.26332"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.509091"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_KUWAIT"
-                cx="35.269295" cy="-1002.5692"/>
-        <circle fill="none" r="18.4" cx="35.269295" cy="-1002.5692"
+                cx="32.362072" cy="-641.14435"/>
+        <circle fill="none" r="18.4" cx="32.362072" cy="-641.14435"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="21.381819" fill-opacity="0.8"
-                class="id_SAUDI_ARABIA" cx="16.274977" cy="-452.82278"/>
-        <circle fill="none" r="23.418182" cx="16.274977" cy="-452.82278"
+                class="id_SAUDI_ARABIA" cx="320.2301" cy="-482.3501"/>
+        <circle fill="none" r="23.418182" cx="320.2301" cy="-482.3501"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.072727"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_VENEZUELA"
-                cx="2.1260843" cy="-1048.5939"/>
-        <circle fill="none" r="18.4" cx="2.1260843" cy="-1048.5939"
+                cx="-19.14108" cy="-664.7933"/>
+        <circle fill="none" r="18.4" cx="-19.14108" cy="-664.7933"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_RUSSIA"
-                cx="58.34263" cy="-539.3447"/>
-        <circle fill="none" r="18.4" cx="58.34263" cy="-539.3447"
+                cx="227.39989" cy="-445.3162"/>
+        <circle fill="none" r="18.4" cx="227.39989" cy="-445.3162"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_SUDAN"
-                cx="-559.1604" cy="815.5996"/>
-        <circle fill="none" r="18.4" cx="-559.1604" cy="815.5996"
+                cx="-302.3755" cy="1322.8049"/>
+        <circle fill="none" r="18.4" cx="-302.3755" cy="1322.8049"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_TURKMENISTAN" cx="-601.0891" cy="853.76196"/>
-        <circle fill="none" r="18.4" cx="-601.0891" cy="853.76196"
+                class="id_TURKMENISTAN" cx="-352.6803" cy="1349.095"/>
+        <circle fill="none" r="18.4" cx="-352.6803" cy="1349.095"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_ARGENTINA"
-                cx="-626.8472" cy="-761.09216"/>
-        <circle fill="none" r="18.4" cx="-626.8472" cy="-761.09216"
+                cx="-554.35406" cy="-230.69098"/>
+        <circle fill="none" r="18.4" cx="-554.35406" cy="-230.69098"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_MALTA"
-                cx="-680.06604" cy="-745.1244"/>
-        <circle fill="none" r="18.4" cx="-680.06604" cy="-745.1244"
+                cx="-597.77264" cy="-266.70203"/>
+        <circle fill="none" r="18.4" cx="-597.77264" cy="-266.70203"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="25.963638" fill-opacity="0.8"
-                class="id_BANGLADESH" cx="-34.350002" cy="513.88165"/>
-        <circle fill="none" r="28.436365" cx="-34.350002" cy="513.88165"
+                class="id_BANGLADESH" cx="15.127214" cy="488.33044"/>
+        <circle fill="none" r="28.436365" cx="15.127214" cy="488.33044"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.9454546"/>
         <circle fill="#ffb300" r="30.545454" fill-opacity="0.8"
-                class="id_NORWAY" cx="141.69939" cy="102.45541"/>
-        <circle fill="none" r="33.454544" cx="141.69939" cy="102.45541"
+                class="id_NORWAY" cx="-135.64899" cy="191.77498"/>
+        <circle fill="none" r="33.454544" cx="-135.64899" cy="191.77498"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="5.8181815"/>
         <circle fill="#ffb300" r="23.672728" fill-opacity="0.8"
-                class="id_CANADA" cx="138.84099" cy="-98.151855"/>
-        <circle fill="none" r="25.927273" cx="138.84099" cy="-98.151855"
+                class="id_CANADA" cx="-51.435616" cy="-176.1695"/>
+        <circle fill="none" r="25.927273" cx="-51.435616" cy="-176.1695"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="4.509091"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_G-77/CHINA" cx="285.33023" cy="-200.59207"/>
-        <circle fill="none" r="20.90909" cx="285.33023" cy="-200.59207"
+                class="id_G-77/CHINA" cx="123.3177" cy="-215.80083"/>
+        <circle fill="none" r="20.90909" cx="123.3177" cy="-215.80083"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_SWITZERLAND" cx="-518.6275" cy="34.533268"/>
-        <circle fill="none" r="20.90909" cx="-518.6275" cy="34.533268"
+                class="id_SWITZERLAND" cx="-768.52795" cy="-54.73712"/>
+        <circle fill="none" r="20.90909" cx="-768.52795" cy="-54.73712"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_ICELAND"
-                cx="369.07056" cy="117.95022"/>
-        <circle fill="none" r="18.4" cx="369.07056" cy="117.95022"
+                cx="313.9545" cy="507.74857"/>
+        <circle fill="none" r="18.4" cx="313.9545" cy="507.74857"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_BRAZIL"
-                cx="657.6581" cy="901.3364"/>
-        <circle fill="none" r="18.4" cx="657.6581" cy="901.3364"
+                cx="666.0363" cy="-1029.2101"/>
+        <circle fill="none" r="18.4" cx="666.0363" cy="-1029.2101"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_KENYA"
-                cx="620.4969" cy="942.90247"/>
-        <circle fill="none" r="18.4" cx="620.4969" cy="942.90247"
+                cx="641.0119" cy="-1079.6394"/>
+        <circle fill="none" r="18.4" cx="641.0119" cy="-1079.6394"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8"
-                class="id_SOUTH_KOREA" cx="54.81839" cy="-176.13219"/>
-        <circle fill="none" r="18.4" cx="54.81839" cy="-176.13219"
+                class="id_SOUTH_KOREA" cx="-219.39085" cy="-235.8916"/>
+        <circle fill="none" r="18.4" cx="-219.39085" cy="-235.8916"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_UMBRELLA_GROUP" cx="-67.206345" cy="-258.28412"/>
-        <circle fill="none" r="15.89091" cx="-67.206345" cy="-258.28412"
+                class="id_UMBRELLA_GROUP" cx="169.70769" cy="-86.83208"/>
+        <circle fill="none" r="15.89091" cx="169.70769" cy="-86.83208"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_GHANA"
-                cx="-1052.71" cy="563.65234"/>
-        <circle fill="none" r="18.4" cx="-1052.71" cy="563.65234"
+                cx="-820.27576" cy="1386.0436"/>
+        <circle fill="none" r="18.4" cx="-820.27576" cy="1386.0436"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_UK"
-                cx="-1040.7859" cy="618.7623"/>
-        <circle fill="none" r="18.4" cx="-1040.7859" cy="618.7623"
+                cx="-765.0506" cy="1397.021"/>
+        <circle fill="none" r="18.4" cx="-765.0506" cy="1397.021"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_SLOVENIA" cx="-289.8359" cy="188.3794"/>
-        <circle fill="none" r="20.90909" cx="-289.8359" cy="188.3794"
+                class="id_SLOVENIA" cx="-305.80313" cy="17.562754"/>
+        <circle fill="none" r="20.90909" cx="-305.80313" cy="17.562754"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_NIGERIA"
-                cx="305.0948" cy="265.28137"/>
-        <circle fill="none" r="18.4" cx="305.0948" cy="265.28137"
+                cx="147.26448" cy="29.522493"/>
+        <circle fill="none" r="18.4" cx="147.26448" cy="29.522493"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_SOUTH_AFRICA" cx="-220.66696" cy="-447.43088"/>
-        <circle fill="none" r="20.90909" cx="-220.66696" cy="-447.43088"
+                class="id_SOUTH_AFRICA" cx="314.29318" cy="-696.41583"/>
+        <circle fill="none" r="20.90909" cx="314.29318" cy="-696.41583"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_AZERBAIJAN"
-                cx="900.16406" cy="-8.542171"/>
-        <circle fill="none" r="18.4" cx="900.16406" cy="-8.542171"
+                cx="1075.1051" cy="145.42142"/>
+        <circle fill="none" r="18.4" cx="1075.1051" cy="145.42142"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_BHUTAN"
-                cx="-127.785645" cy="662.3415"/>
-        <circle fill="none" r="18.4" cx="-127.785645" cy="662.3415"
+                cx="76.81389" cy="672.88684"/>
+        <circle fill="none" r="18.4" cx="76.81389" cy="672.88684"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_JAMAICA"
-                cx="-250.11089" cy="-141.88724"/>
-        <circle fill="none" r="18.4" cx="-250.11089" cy="-141.88724"
+                cx="-606.6016" cy="276.44315"/>
+        <circle fill="none" r="18.4" cx="-606.6016" cy="276.44315"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="19.090908" fill-opacity="0.8"
-                class="id_MARSHALL_ISLANDS" cx="-283.89853" cy="-88.01338"/>
-        <circle fill="none" r="20.90909" cx="-283.89853" cy="-88.01338"
+                class="id_MARSHALL_ISLANDS" cx="-573.4763" cy="206.98677"/>
+        <circle fill="none" r="20.90909" cx="-573.4763" cy="206.98677"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.6363635"/>
         <circle fill="#ffb300" r="16.8" fill-opacity="0.8" class="id_MEXICO"
-                cx="351.65094" cy="588.9135"/>
-        <circle fill="none" r="18.4" cx="351.65094" cy="588.9135"
+                cx="335.44186" cy="292.6203"/>
+        <circle fill="none" r="18.4" cx="335.44186" cy="292.6203"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="3.1999998"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_BOLIVIA" cx="-768.0165" cy="497.01303"/>
-        <circle fill="none" r="15.89091" cx="-768.0165" cy="497.01303"
+                class="id_BOLIVIA" cx="-449.48224" cy="831.7735"/>
+        <circle fill="none" r="15.89091" cx="-449.48224" cy="831.7735"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_COLOMBIA" cx="-595.64856" cy="478.77722"/>
-        <circle fill="none" r="15.89091" cx="-595.64856" cy="478.77722"
+                class="id_COLOMBIA" cx="-496.86203" cy="648.06744"/>
+        <circle fill="none" r="15.89091" cx="-496.86203" cy="648.06744"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_NEW_ZEALAND" cx="-159.50497" cy="-607.5556"/>
-        <circle fill="none" r="15.89091" cx="-159.50497" cy="-607.5556"
+                class="id_NEW_ZEALAND" cx="727.6197" cy="317.35834"/>
+        <circle fill="none" r="15.89091" cx="727.6197" cy="317.35834"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_THAILAND" cx="424.31912" cy="1051.565"/>
-        <circle fill="none" r="15.89091" cx="424.31912" cy="1051.565"
+                class="id_THAILAND" cx="707.52954" cy="594.2864"/>
+        <circle fill="none" r="15.89091" cx="707.52954" cy="594.2864"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_TANZANIA" cx="-1153.3347" cy="-15.128827"/>
-        <circle fill="none" r="15.89091" cx="-1153.3347" cy="-15.128827"
+                class="id_TANZANIA" cx="-86.23787" cy="-1084.8954"/>
+        <circle fill="none" r="15.89091" cx="-86.23787" cy="-1084.8954"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_CENTRAL_AFRICAN_REPUBLIC" cx="884.60815"
-                cy="-705.6279"/>
-        <circle fill="none" r="15.89091" cx="884.60815" cy="-705.6279"
+                class="id_CENTRAL_AFRICAN_REPUBLIC" cx="419.99518"
+                cy="-1587.6893"/>
+        <circle fill="none" r="15.89091" cx="419.99518" cy="-1587.6893"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_SENEGAL" cx="943.6342" cy="-861.8233"/>
-        <circle fill="none" r="15.89091" cx="943.6342" cy="-861.8233"
+                class="id_SENEGAL" cx="198.40848" cy="-1580.5999"/>
+        <circle fill="none" r="15.89091" cx="198.40848" cy="-1580.5999"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_BULGARIA" cx="-168.00533" cy="-764.23553"/>
-        <circle fill="none" r="15.89091" cx="-168.00533" cy="-764.23553"
+                class="id_BULGARIA" cx="-566.16174" cy="-435.42642"/>
+        <circle fill="none" r="15.89091" cx="-566.16174" cy="-435.42642"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_FINLAND" cx="-922.165" cy="-535.1375"/>
-        <circle fill="none" r="15.89091" cx="-922.165" cy="-535.1375"
+                class="id_FINLAND" cx="-1039.7913" cy="-573.89996"/>
+        <circle fill="none" r="15.89091" cx="-1039.7913" cy="-573.89996"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_Global_Unions" cx="-459.89447" cy="1125.5671"/>
-        <circle fill="none" r="15.89091" cx="-459.89447" cy="1125.5671"
+                class="id_Global_Unions" cx="162.82672" cy="1311.1991"/>
+        <circle fill="none" r="15.89091" cx="162.82672" cy="1311.1991"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
                 class="id_International_Confederation_of_Free_Trade_Unions"
-                cx="-193.93596" cy="1148.8751"/>
-        <circle fill="none" r="15.89091" cx="-193.93596" cy="1148.8751"
+                cx="375.42584" cy="1299.1194"/>
+        <circle fill="none" r="15.89091" cx="375.42584" cy="1299.1194"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_Maldives" cx="-1109.683" cy="-621.3956"/>
-        <circle fill="none" r="15.89091" cx="-1109.683" cy="-621.3956"
+                class="id_Maldives" cx="-960.48267" cy="-939.1703"/>
+        <circle fill="none" r="15.89091" cx="-960.48267" cy="-939.1703"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_Mauritius" cx="-924.02594" cy="-822.0986"/>
-        <circle fill="none" r="15.89091" cx="-924.02594" cy="-822.0986"
+                class="id_Mauritius" cx="-741.9264" cy="-966.61566"/>
+        <circle fill="none" r="15.89091" cx="-741.9264" cy="-966.61566"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_COSTA_RICA" cx="-889.611" cy="113.24422"/>
-        <circle fill="none" r="15.89091" cx="-889.611" cy="113.24422"
+                class="id_COSTA_RICA" cx="-863.4141" cy="605.2703"/>
+        <circle fill="none" r="15.89091" cx="-863.4141" cy="605.2703"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_PAPUA_NEW_GUINEA" cx="-841.82306" cy="293.21405"/>
-        <circle fill="none" r="15.89091" cx="-841.82306" cy="293.21405"
+                class="id_PAPUA_NEW_GUINEA" cx="-690.8723" cy="718.24457"/>
+        <circle fill="none" r="15.89091" cx="-690.8723" cy="718.24457"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_AFRICAN_GROUP" cx="313.5705" cy="-938.67316"/>
-        <circle fill="none" r="15.89091" cx="313.5705" cy="-938.67316"
+                class="id_AFRICAN_GROUP" cx="705.61786" cy="-458.2256"/>
+        <circle fill="none" r="15.89091" cx="705.61786" cy="-458.2256"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_BELARUS" cx="570.61456" cy="-900.6709"/>
-        <circle fill="none" r="15.89091" cx="570.61456" cy="-900.6709"
+                class="id_BELARUS" cx="300.41968" cy="98.69861"/>
+        <circle fill="none" r="15.89091" cx="300.41968" cy="98.69861"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
         <circle fill="#ffb300" r="14.509091" fill-opacity="0.8"
-                class="id_UKRAINE" cx="452.206" cy="-1106.2079"/>
-        <circle fill="none" r="15.89091" cx="452.206" cy="-1106.2079"
+                class="id_UKRAINE" cx="-194.87442" cy="-366.8186"/>
+        <circle fill="none" r="15.89091" cx="-194.87442" cy="-366.8186"
                 stroke="#b27d00" stroke-opacity="0.8" stroke-width="2.7636364"/>
     </g>
     <g id="node-labels">
-        <text font-size="38" x="463.91345" y="-449.56134" fill="#ffffff"
+        <text font-size="38" x="396.01965" y="-114.77614" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_AOSIS">
             AOSIS
         </text>
-        <text font-size="34" x="477.2916" y="-529.15497" fill="#ffffff"
+        <text font-size="34" x="382.62775" y="-18.861145" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_EUROPEAN_UNION">
             EUROPEAN UNION
         </text>
-        <text font-size="47" x="54.92068" y="337.84534" fill="#ffffff"
+        <text font-size="47" x="8.525575" y="302.83386" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_AUSTRALIA">
             AUSTRALIA
         </text>
-        <text font-size="66" x="-43.461994" y="184.56433" fill="#ffffff"
+        <text font-size="66" x="-0.011850917" y="12.23431" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_USA">
             USA
         </text>
-        <text font-size="34" x="-39.890106" y="-44.17753" fill="#ffffff"
+        <text font-size="34" x="-344.3194" y="-523.12213" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BURKINA_FASO">
             BURKINA FASO
         </text>
-        <text font-size="38" x="-0.0034305714" y="6.7938247" fill="#ffffff"
+        <text font-size="38" x="-309.90332" y="-465.51242" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_IRAN">
             IRAN
         </text>
-        <text font-size="47" x="445.1696" y="-303.40775" fill="#ffffff"
+        <text font-size="47" x="403.10645" y="-213.66061" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_CHINA">
             CHINA
         </text>
-        <text font-size="52" x="219.42604" y="486.91907" fill="#ffffff"
+        <text font-size="52" x="173.46838" y="280.59183" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_MALAYSIA">
             MALAYSIA
         </text>
-        <text font-size="38" x="-616.9233" y="16.754929" fill="#ffffff"
+        <text font-size="38" x="-855.0923" y="-118.60182" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_DENMARK">
             DENMARK
         </text>
-        <text font-size="34" x="-687.5402" y="-15.421091" fill="#ffffff"
+        <text font-size="34" x="-908.83704" y="-179.24709" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SWEDEN">
             SWEDEN
         </text>
-        <text font-size="34" x="-530.1538" y="-1109.1597" fill="#ffffff"
+        <text font-size="34" x="-649.5179" y="-1354.7389" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_EL_SALVADOR">
             EL SALVADOR
         </text>
-        <text font-size="34" x="-572.90063" y="-1146.1143" fill="#ffffff"
+        <text font-size="34" x="-706.24774" y="-1353.1924" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_PHILIPPINES">
             PHILIPPINES
         </text>
-        <text font-size="38" x="731.3965" y="-130.57225" fill="#ffffff"
+        <text font-size="38" x="990.12915" y="3.2476692" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_GEORGIA">
             GEORGIA
         </text>
-        <text font-size="43" x="637.8966" y="-185.89687" fill="#ffffff"
+        <text font-size="43" x="820.8122" y="-9.999367" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_INDIA">
             INDIA
         </text>
-        <text font-size="43" x="811.0972" y="-64.06138" fill="#ffffff"
+        <text font-size="43" x="981.41284" y="90.24022" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_PAKISTAN">
             PAKISTAN
         </text>
-        <text font-size="34" x="-405.44223" y="-435.85544" fill="#ffffff"
+        <text font-size="34" x="286.0355" y="-873.01013" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_INDONESIA">
             INDONESIA
         </text>
-        <text font-size="38" x="-337.00128" y="-437.59363" fill="#ffffff"
+        <text font-size="38" x="298.0174" y="-804.7962" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_UGANDA">
             UGANDA
         </text>
-        <text font-size="47" x="-305.8796" y="56.420616" fill="#ffffff"
+        <text font-size="47" x="-443.44894" y="120.81764" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_JAPAN">
             JAPAN
         </text>
-        <text font-size="34" x="35.269295" y="-996.381" fill="#ffffff"
+        <text font-size="34" x="32.362072" y="-634.9561" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_KUWAIT">
             KUWAIT
         </text>
-        <text font-size="43" x="16.274977" y="-444.86526" fill="#ffffff"
+        <text font-size="43" x="320.2301" y="-474.39258" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SAUDI_ARABIA">
             SAUDI ARABIA
         </text>
-        <text font-size="34" x="2.1260843" y="-1042.4056" fill="#ffffff"
+        <text font-size="34" x="-19.14108" y="-658.60504" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_VENEZUELA">
             VENEZUELA
         </text>
-        <text font-size="34" x="58.34263" y="-533.05273" fill="#ffffff"
+        <text font-size="34" x="227.39989" y="-439.0242" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_RUSSIA">
             RUSSIA
         </text>
-        <text font-size="34" x="-559.1604" y="821.8916" fill="#ffffff"
+        <text font-size="34" x="-302.3755" y="1329.0969" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SUDAN">
             SUDAN
         </text>
-        <text font-size="34" x="-601.0891" y="860.05396" fill="#ffffff"
+        <text font-size="34" x="-352.6803" y="1355.387" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_TURKMENISTAN">
             TURKMENISTAN
         </text>
-        <text font-size="34" x="-626.8472" y="-754.8002" fill="#ffffff"
+        <text font-size="34" x="-554.35406" y="-224.39899" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_ARGENTINA">
             ARGENTINA
         </text>
-        <text font-size="34" x="-680.06604" y="-739.0399" fill="#ffffff"
+        <text font-size="34" x="-597.77264" y="-260.61755" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_MALTA">
             MALTA
         </text>
-        <text font-size="52" x="-34.350002" y="523.5047" fill="#ffffff"
+        <text font-size="52" x="15.127214" y="497.9535" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BANGLADESH">
             BANGLADESH
         </text>
-        <text font-size="61" x="141.69939" y="113.75143" fill="#ffffff"
+        <text font-size="61" x="-135.64899" y="203.071" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_NORWAY">
             NORWAY
         </text>
-        <text font-size="47" x="138.84099" y="-89.4541" fill="#ffffff"
+        <text font-size="47" x="-51.435616" y="-167.47174" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_CANADA">
             CANADA
         </text>
-        <text font-size="38" x="285.33023" y="-193.55984" fill="#ffffff"
+        <text font-size="38" x="123.3177" y="-208.7686" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_G-77/CHINA">
             G-77/CHINA
         </text>
-        <text font-size="38" x="-518.6275" y="41.565495" fill="#ffffff"
+        <text font-size="38" x="-768.52795" y="-47.704895" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SWITZERLAND">
             SWITZERLAND
         </text>
-        <text font-size="34" x="369.07056" y="124.24221" fill="#ffffff"
+        <text font-size="34" x="313.9545" y="514.0405" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_ICELAND">
             ICELAND
         </text>
-        <text font-size="34" x="657.6581" y="907.4209" fill="#ffffff"
+        <text font-size="34" x="666.0363" y="-1023.1256" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BRAZIL">
             BRAZIL
         </text>
-        <text font-size="34" x="620.4969" y="948.98694" fill="#ffffff"
+        <text font-size="34" x="641.0119" y="-1073.5549" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_KENYA">
             KENYA
         </text>
-        <text font-size="34" x="54.81839" y="-169.83604" fill="#ffffff"
+        <text font-size="34" x="-219.39085" y="-229.59546" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SOUTH_KOREA">
             SOUTH KOREA
         </text>
-        <text font-size="29" x="-67.206345" y="-252.91388" fill="#ffffff"
+        <text font-size="29" x="169.70769" y="-81.46184" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_UMBRELLA_GROUP">
             UMBRELLA GROUP
         </text>
-        <text font-size="34" x="-1052.71" y="569.94434" fill="#ffffff"
+        <text font-size="34" x="-820.27576" y="1392.3356" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_GHANA">
             GHANA
         </text>
-        <text font-size="34" x="-1040.7859" y="624.95056" fill="#ffffff"
+        <text font-size="34" x="-765.0506" y="1403.2092" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_UK">
             UK
         </text>
-        <text font-size="38" x="-289.8359" y="195.41626" fill="#ffffff"
+        <text font-size="38" x="-305.80313" y="24.599619" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SLOVENIA">
             SLOVENIA
         </text>
-        <text font-size="34" x="305.0948" y="271.57336" fill="#ffffff"
+        <text font-size="34" x="147.26448" y="35.814484" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_NIGERIA">
             NIGERIA
         </text>
-        <text font-size="38" x="-220.66696" y="-440.394" fill="#ffffff"
+        <text font-size="38" x="314.29318" y="-689.37897" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SOUTH_AFRICA">
             SOUTH AFRICA
         </text>
-        <text font-size="34" x="900.16406" y="-2.353938" fill="#ffffff"
+        <text font-size="34" x="1075.1051" y="151.60965" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_AZERBAIJAN">
             AZERBAIJAN
         </text>
-        <text font-size="34" x="-127.785645" y="668.5297" fill="#ffffff"
+        <text font-size="34" x="76.81389" y="679.0751" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BHUTAN">
             BHUTAN
         </text>
-        <text font-size="34" x="-250.11089" y="-135.59525" fill="#ffffff"
+        <text font-size="34" x="-606.6016" y="282.73514" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_JAMAICA">
             JAMAICA
         </text>
-        <text font-size="38" x="-283.89853" y="-80.981155" fill="#ffffff"
+        <text font-size="38" x="-573.4763" y="214.019" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_MARSHALL_ISLANDS">
             MARSHALL ISLANDS
         </text>
-        <text font-size="34" x="351.65094" y="595.20966" fill="#ffffff"
+        <text font-size="34" x="335.44186" y="298.91644" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_MEXICO">
             MEXICO
         </text>
-        <text font-size="29" x="-768.0165" y="502.38327" fill="#ffffff"
+        <text font-size="29" x="-449.48224" y="837.14374" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BOLIVIA">
             BOLIVIA
         </text>
-        <text font-size="29" x="-595.64856" y="484.14746" fill="#ffffff"
+        <text font-size="29" x="-496.86203" y="653.4377" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_COLOMBIA">
             COLOMBIA
         </text>
-        <text font-size="29" x="-159.50497" y="-602.3659" fill="#ffffff"
+        <text font-size="29" x="727.6197" y="322.54803" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_NEW_ZEALAND">
             NEW ZEALAND
         </text>
-        <text font-size="29" x="424.31912" y="1056.7546" fill="#ffffff"
+        <text font-size="29" x="707.52954" y="599.4761" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_THAILAND">
             THAILAND
         </text>
-        <text font-size="29" x="-1153.3347" y="-9.93913" fill="#ffffff"
+        <text font-size="29" x="-86.23787" y="-1079.7057" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_TANZANIA">
             TANZANIA
         </text>
-        <text font-size="29" x="884.60815" y="-700.2612" fill="#ffffff"
+        <text font-size="29" x="419.99518" y="-1582.3226" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_CENTRAL_AFRICAN_REPUBLIC">
             CENTRAL AFRICAN REPUBLIC
         </text>
-        <text font-size="29" x="943.6342" y="-856.4566" fill="#ffffff"
+        <text font-size="29" x="198.40848" y="-1575.2332" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_SENEGAL">
             SENEGAL
         </text>
-        <text font-size="29" x="-168.00533" y="-758.86884" fill="#ffffff"
+        <text font-size="29" x="-566.16174" y="-430.05972" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BULGARIA">
             BULGARIA
         </text>
-        <text font-size="29" x="-922.165" y="-529.9478" fill="#ffffff"
+        <text font-size="29" x="-1039.7913" y="-568.71027" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_FINLAND">
             FINLAND
         </text>
-        <text font-size="29" x="-459.89447" y="1130.9338" fill="#ffffff"
+        <text font-size="29" x="162.82672" y="1316.5658" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Global_Unions">
             Global Unions
         </text>
-        <text font-size="29" x="-193.93596" y="1154.2418" fill="#ffffff"
+        <text font-size="29" x="375.42584" y="1304.4861" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial"
               class="id_International_Confederation_of_Free_Trade_Unions">
             International Confederation of Free Trade Unions
         </text>
-        <text font-size="29" x="-1109.683" y="-616.121" fill="#ffffff"
+        <text font-size="29" x="-960.48267" y="-933.8956" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Maldives">
             Maldives
         </text>
-        <text font-size="29" x="-924.02594" y="-816.8239" fill="#ffffff"
+        <text font-size="29" x="-741.9264" y="-961.341" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Mauritius">
             Mauritius
         </text>
-        <text font-size="29" x="-889.611" y="118.614456" fill="#ffffff"
+        <text font-size="29" x="-863.4141" y="610.64056" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_COSTA_RICA">
             COSTA RICA
         </text>
-        <text font-size="29" x="-841.82306" y="298.58075" fill="#ffffff"
+        <text font-size="29" x="-690.8723" y="723.61127" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_PAPUA_NEW_GUINEA">
             PAPUA NEW GUINEA
         </text>
-        <text font-size="29" x="313.5705" y="-933.3029" fill="#ffffff"
+        <text font-size="29" x="705.61786" y="-452.85535" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_AFRICAN_GROUP">
             AFRICAN GROUP
         </text>
-        <text font-size="29" x="570.61456" y="-895.3042" fill="#ffffff"
+        <text font-size="29" x="300.41968" y="104.06531" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_BELARUS">
             BELARUS
         </text>
-        <text font-size="29" x="452.206" y="-1100.9297" fill="#ffffff"
+        <text font-size="29" x="-194.87442" y="-361.5404" fill="#ffffff"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_UKRAINE">
             UKRAINE
