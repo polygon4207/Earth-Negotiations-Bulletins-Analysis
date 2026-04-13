@@ -1,0 +1,2812 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-13">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="year" type="long" />
+      <attribute id="2" title="sentence_id" type="long" />
+      <attribute id="3" title="predicate" type="string" />
+      <attribute id="4" title="predicate_type" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="string" />
+    </attributes>
+    <nodes>
+      <node id="UK" label="UK">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SAUDI ARABIA" label="SAUDI ARABIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the rules of procedure" label="the rules of procedure">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a compromise must be reached soon" label="a compromise must be reached soon">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="KUWAIT" label="KUWAIT">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="IRAN" label="IRAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="OPEC" label="OPEC">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="VENEZUELA" label="VENEZUELA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a written report accompany SBSTA decisions" label="a written report accompany SBSTA decisions">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="INDIA" label="INDIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="PAKISTAN" label="PAKISTAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="to reflect regional differences in climate change" label="to reflect regional differences in climate change">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="GEORGIA" label="GEORGIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="JAPAN" label="JAPAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a separate informal session to revise the guidelines" label="a separate informal session to revise the guidelines">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="MOROCCO" label="MOROCCO">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="EUROPEAN UNION" label="EUROPEAN UNION">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="AUSTRALIA" label="AUSTRALIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="PHILIPPINES" label="PHILIPPINES">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="capacity building and analysis of social impacts for AIJ projects" label="capacity building and analysis of social impacts for AIJ projects">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="EL SALVADOR" label="EL SALVADOR">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="NORWAY" label="NORWAY">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="CHINA" label="CHINA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="AIJ workshops until after COP-3" label="AIJ workshops until after COP-3">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="MALAYSIA" label="MALAYSIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="an information center/clearinghouse for technology transfer" label="an information center/clearinghouse for technology transfer">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="CANADA" label="CANADA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="NEW ZEALAND" label="NEW ZEALAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="KIRIBATI" label="KIRIBATI">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="G-77/CHINA" label="G-77/CHINA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="enhanced data collection at regional and subregional levels" label="enhanced data collection at regional and subregional levels">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BURKINA FASO" label="BURKINA FASO">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ICAO" label="ICAO">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the inclusion of a reference already binding Parties to the inclusion of a list of options or a “menu”" label="the inclusion of a reference already binding Parties to the inclusion of a list of options or a “menu”">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="AOSIS" label="AOSIS">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="NIGERIA" label="NIGERIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="RUSSIA" label="RUSSIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="AUSTRIA" label="AUSTRIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ZAMBIA" label="ZAMBIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="THAILAND" label="THAILAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="GHANA" label="GHANA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="INDONESIA" label="INDONESIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="capacity building" label="capacity building">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="UGANDA" label="UGANDA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SLOVENIA" label="SLOVENIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="GERMANY" label="GERMANY">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SUDAN" label="SUDAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="international cooperation to revive traditional means of transportation and enhanced energy efficiency" label="international cooperation to revive traditional means of transportation and enhanced energy efficiency">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="TURKMENISTAN" label="TURKMENISTAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SOUTH KOREA" label="SOUTH KOREA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SWEDEN" label="SWEDEN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="coordinated measures in taxation" label="coordinated measures in taxation">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="DENMARK" label="DENMARK">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="MOLDOVA" label="MOLDOVA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="FINLAND" label="FINLAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ICELAND" label="ICELAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ZIMBABWE" label="ZIMBABWE">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ARGENTINA" label="ARGENTINA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Oil exporting countries" label="Oil exporting countries">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="their statements on the Ministerial Declaration be annexed to the report" label="their statements on the Ministerial Declaration be annexed to the report">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="JAMAICA" label="JAMAICA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SWITZERLAND" label="SWITZERLAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="delegates" label="delegates">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="increased use of renewable energy sources" label="increased use of renewable energy sources">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="an intergovernmental panel on energy" label="an intergovernmental panel on energy">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="They" label="They">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a G-77/CHINA-proposed reference to the principle of common but differentiated responsibilities" label="a G-77/CHINA-proposed reference to the principle of common but differentiated responsibilities">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="references to timetables and targets" label="references to timetables and targets">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the original text on family and maternal health care" label="the original text on family and maternal health care">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="MALTA" label="MALTA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the EU and CANADA" label="the EU and CANADA">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="phasing out subsidies in developing countries" label="phasing out subsidies in developing countries">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a high-level CSD forum on environment and energy to prepare an upcoming CSD session dedicated to establishing a common strategy for a sustainable energy future" label="a high-level CSD forum on environment and energy to prepare an upcoming CSD session dedicated to establishing a common strategy for a sustainable energy future">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="NORWAY’s call for measures to improve food security for the urban poor" label="NORWAY’s call for measures to improve food security for the urban poor">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="UKRAINE" label="UKRAINE">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="national legal and financial systems" label="national legal and financial systems">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the paragraph" label="the paragraph">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="MEXICO" label="MEXICO">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="an intergovernmental process on financial issues" label="an intergovernmental process on financial issues">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BANGLADESH" label="BANGLADESH">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="industrialized countries" label="industrialized countries">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="voluntary commitments" label="voluntary commitments">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="COLOMBIA" label="COLOMBIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="BRAZIL" label="BRAZIL">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Many" label="Many">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the issue" label="the issue">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="work on inventories for sources of new technologies and gap identification" label="work on inventories for sources of new technologies and gap identification">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="to leave the debate to the high-level segment" label="to leave the debate to the high-level segment">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="further negotiation on the text" label="further negotiation on the text">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="AFRICAN GROUP" label="AFRICAN GROUP">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="CANADA and the US" label="CANADA and the US">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="SOUTH AFRICA" label="SOUTH AFRICA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the G-77/CHINA position" label="the G-77/CHINA position">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the change" label="the change">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="MAURITANIA" label="MAURITANIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="The ministers" label="The ministers">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="BOLIVIA" label="BOLIVIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ETHIOPIA" label="ETHIOPIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the early signing and ratification of the Protocol" label="the early signing and ratification of the Protocol">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="FRANCE" label="FRANCE">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="NETHERLANDS" label="NETHERLANDS">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="scientific uncertainty should not be used as an excuse for inaction" label="scientific uncertainty should not be used as an excuse for inaction">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the momentum of Kyoto" label="the momentum of Kyoto">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="CENTRAL AMERICAN STATES" label="CENTRAL AMERICAN STATES">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="THAI-LAND" label="THAI-LAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="SPAIN" label="SPAIN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="CROATIA" label="CROATIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="EGYPT" label="EGYPT">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="POLAND" label="POLAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="adverse impacts of climate change" label="adverse impacts of climate change">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="KENYA" label="KENYA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="NEPAL" label="NEPAL">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="GAMBIA" label="GAMBIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="BURUNDI" label="BURUNDI">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="CÔTE D'IVOIRE" label="CÔTE D'IVOIRE">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a binding commitment at COP-5 to abate its greenhouse gas emissions" label="a binding commitment at COP-5 to abate its greenhouse gas emissions">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="such an outcome" label="such an outcome">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="UMBRELLA GROUP" label="UMBRELLA GROUP">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="MARSHALL ISLANDS" label="MARSHALL ISLANDS">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="detailed and rigorous reporting" label="detailed and rigorous reporting">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="changing the guidelines for non-Annex I communications" label="changing the guidelines for non-Annex I communications">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a paragraph that calls on the CGE to consider steps taken or envisaged by the Party to implement the FCCC" label="a paragraph that calls on the CGE to consider steps taken or envisaged by the Party to implement the FCCC">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a draft decision on capacity building" label="a draft decision on capacity building">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="SENEGAL" label="SENEGAL">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="consideration of compensation" label="consideration of compensation">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="delete the name of Turkey from Annexes I and II of the FCCC" label="delete the name of Turkey from Annexes I and II of the FCCC">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="AZERBAIJAN" label="AZERBAIJAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="KAZAKHSTAN" label="KAZAKHSTAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="LULUCF" label="LULUCF">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="both technical workshops and intersessional meetings should be held prior to COP-6" label="both technical workshops and intersessional meetings should be held prior to COP-6">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a single body exercising its facilitative and enforcement functions in a graduated manner" label="a single body exercising its facilitative and enforcement functions in a graduated manner">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="guidelines for a possible referral to the compliance body" label="guidelines for a possible referral to the compliance body">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="clear rules for information gathering" label="clear rules for information gathering">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the defending party should be able to rebut evidence against it" label="the defending party should be able to rebut evidence against it">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="Available" label="Available">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice" label="further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="FCCC Executive Secretary Michael Zammit Cutajar" label="FCCC Executive Secretary Michael Zammit Cutajar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="developing Parties" label="developing Parties">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Annex I countries have the main responsibility" label="Annex I countries have the main responsibility">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="many Annex I Parties are significantly exceeding 1990 levels" label="many Annex I Parties are significantly exceeding 1990 levels">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BHUTAN" label="BHUTAN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="special attention to LDCs’ needs" label="special attention to LDCs’ needs">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="consistency in policies between different environmental fora" label="consistency in policies between different environmental fora">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BULGARIA" label="BULGARIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="FRANCISCAN INTERNATIONAL" label="FRANCISCAN INTERNATIONAL">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a proposal by Argentina to remove brackets from text on national communications" label="a proposal by Argentina to remove brackets from text on national communications">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="LDCs" label="LDCs">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a “pick-and-choose” approach under Article 3" label="a “pick-and-choose” approach under Article 3">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a non-binding regime" label="a non-binding regime">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="an assessment of the actions of Annex I Parties in striving to implement P&amp;Ms in such a way as to minimize adverse effects" label="an assessment of the actions of Annex I Parties in striving to implement P&amp;Ms in such a way as to minimize adverse effects">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="future work on P&amp;Ms should contribute to an assessment of demonstrable progress of Annex I Parties in achieving their Protocol commitments" label="future work on P&amp;Ms should contribute to an assessment of demonstrable progress of Annex I Parties in achieving their Protocol commitments">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the adaptation levy on the CDM should also apply to the other mechanisms" label="the adaptation levy on the CDM should also apply to the other mechanisms">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="TANZANIA" label="TANZANIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="additional activities under Protocol Article 3" label="additional activities under Protocol Article 3">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="President Elyazghi’s intention to consult and report back to the COP before the High-Level Segment on the agenda item “second review of the adequacy of Article 4”" label="President Elyazghi’s intention to consult and report back to the COP before the High-Level Segment on the agenda item “second review of the adequacy of Article 4”">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="Several alternative texts to the Co-Chairs’ proposal" label="Several alternative texts to the Co-Chairs’ proposal">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="package deal" label="package deal">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the possibility for the Compliance Committee to receive questions of implementation submitted by a Party with respect to another Party" label="the possibility for the Compliance Committee to receive questions of implementation submitted by a Party with respect to another Party">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the inclusion of developing country scientists" label="the inclusion of developing country scientists">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the issue to SBSTA-16" label="the issue to SBSTA-16">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="TURKEY" label="TURKEY">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="joint research projects between developed and developing countries" label="joint research projects between developed and developing countries">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="relevant draft conclusions" label="relevant draft conclusions">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a concrete implementation work programme" label="a concrete implementation work programme">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a Climate Change Day" label="a Climate Change Day">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="CENTRAL AFRICAN REPUBLIC" label="CENTRAL AFRICAN REPUBLIC">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="ratification of the Protocol" label="ratification of the Protocol">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="clarity on the meaning of “sound” rules" label="clarity on the meaning of “sound” rules">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="Tuvalu" label="Tuvalu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the text" label="the text">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="amendments" label="amendments">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="ITALIA" label="ITALIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a text proposed by Canada urging Parties to ensure early payment of contributions" label="a text proposed by Canada urging Parties to ensure early payment of contributions">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="REPUBLIC OF IRELAND" label="REPUBLIC OF IRELAND">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the LDC Fund" label="the LDC Fund">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a special fund for developing countries other than LDCs" label="a special fund for developing countries other than LDCs">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="NAMIBIA" label="NAMIBIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the Protocol" label="the Protocol">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="CHILE" label="CHILE">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="BAHAMAS" label="BAHAMAS">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="factoring out" label="factoring out">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="implementation of decision 5/CP" label="implementation of decision 5/CP">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="FEDERATED STATES OF MICRONESIA" label="FEDERATED STATES OF MICRONESIA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="second national communications" label="second national communications">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BENIN" label="BENIN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="PANAMA" label="PANAMA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="RWANDA" label="RWANDA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="INTERNATIONAL WORK GROUP FOR INDIGENOUS AFFAIRS (IWGIA)" label="INTERNATIONAL WORK GROUP FOR INDIGENOUS AFFAIRS (IWGIA)">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="CUBA" label="CUBA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="YEMEN" label="YEMEN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Maldives" label="Maldives">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="technology transfer to address adaptation needs in SIDS" label="technology transfer to address adaptation needs in SIDS">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="Mauritius" label="Mauritius">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Global Unions" label="Global Unions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="employment considerations in the IPCC reports" label="employment considerations in the IPCC reports">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="International Confederation of Free Trade Unions" label="International Confederation of Free Trade Unions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="TRINIDAD AND TOBAGO" label="TRINIDAD AND TOBAGO">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="the role of public-private partnerships" label="the role of public-private partnerships">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="PAPUA NEW GUINEA" label="PAPUA NEW GUINEA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="COSTA RICA" label="COSTA RICA">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="Africa Group" label="Africa Group">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="an amendment" label="an amendment">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="BELARUS" label="BELARUS">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="World Meteorological Organization" label="World Meteorological Organization">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="reference to other conventions and multilateral organizations" label="reference to other conventions and multilateral organizations">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="the proposal" label="the proposal">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="parties" label="parties">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="slow progress on technology transfer" label="slow progress on technology transfer">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="Annex I parties" label="Annex I parties">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a new and different mandate" label="a new and different mandate">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a number of parties" label="a number of parties">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="a role for the GEF" label="a role for the GEF">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="a contact group discussion" label="a contact group discussion">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="this course of action" label="this course of action">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="it" label="it">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="overlap with the second Global Stocktake (GST 2)" label="overlap with the second Global Stocktake (GST 2)">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="prioritizing adaptation" label="prioritizing adaptation">
+        <attvalues>
+          <attvalue for="0" value="negotiation_point" />
+        </attvalues>
+      </node>
+      <node id="LMDCs" label="LMDCs">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="UK" target="scientific uncertainty should not be used as an excuse for inaction" id="0">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="566" />
+          <attvalue for="3" value="said scientific uncertainty should not be used as an excuse for inaction" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="the rules of procedure" id="1">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="521" />
+          <attvalue for="3" value="requested that its objection to the rules of procedure be noted" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="a compromise must be reached soon" id="2">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="104" />
+          <attvalue for="3" value="said that a compromise must be reached soon" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="their statements on the Ministerial Declaration be annexed to the report" id="3">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="518" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="further negotiation on the text" id="4">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="331" />
+          <attvalue for="3" value="said the Chair should not allow further negotiation on the text" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="clear rules for information gathering" id="5">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="440" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="an assessment of the actions of Annex I Parties in striving to implement P&amp;Ms in such a way as to minimize adverse effects" id="6">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="585" />
+          <attvalue for="3" value="call by the G-77/China and Saudi Arabia for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="the inclusion of developing country scientists" id="7">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="291" />
+          <attvalue for="3" value="stressed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="the issue to SBSTA-16" id="8">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="294" />
+          <attvalue for="3" value="proposed deferring" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="Available" id="9">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="Opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="slow progress on technology transfer" id="10">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="621" />
+          <attvalue for="3" value="expressed disappointment" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="a contact group discussion" id="11">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="459" />
+          <attvalue for="3" value="urged" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="a separate informal session to revise the guidelines" id="12">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="135" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="an information center/clearinghouse for technology transfer" id="13">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="161" />
+          <attvalue for="3" value="called for the establishment of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the inclusion of a reference already binding Parties to the inclusion of a list of options or a “menu”" id="14">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="310" />
+          <attvalue for="3" value="objected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="a G-77/CHINA-proposed reference to the principle of common but differentiated responsibilities" id="15">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="198" />
+          <attvalue for="3" value="objected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="references to timetables and targets" id="16">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="deleted" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="a high-level CSD forum on environment and energy to prepare an upcoming CSD session dedicated to establishing a common strategy for a sustainable energy future" id="17">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="284" />
+          <attvalue for="3" value="was not supported" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="national legal and financial systems" id="18">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="367" />
+          <attvalue for="3" value="stressed the importance of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the paragraph" id="19">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="377" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="an intergovernmental process on financial issues" id="20">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="441" />
+          <attvalue for="3" value="introduced" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="to leave the debate to the high-level segment" id="21">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="250" />
+          <attvalue for="3" value="proposal" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="CANADA and the US" id="22">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="414" />
+          <attvalue for="3" value="Supported by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the change" id="23">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="480" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="such an outcome" id="24">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="715" />
+          <attvalue for="3" value="had reasons to promote" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="guidelines for a possible referral to the compliance body" id="25">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="434" />
+          <attvalue for="3" value="suggested" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the defending party should be able to rebut evidence against it" id="26">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="441" />
+          <attvalue for="3" value="said the defending party should be able to rebut evidence against it" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="a proposal by Argentina to remove brackets from text on national communications" id="27">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="169" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the Protocol" id="28">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="646" />
+          <attvalue for="3" value="repu- diation of the Protocol" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="implementation of decision 5/CP" id="29">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="300" />
+          <attvalue for="3" value="emphasized the need to discuss" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="the role of public-private partnerships" id="30">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="140" />
+          <attvalue for="3" value="emphasized" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="a new and different mandate" id="31">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="157" />
+          <attvalue for="3" value="stressed the need for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="the rules of procedure" target="KUWAIT" id="32">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="104" />
+          <attvalue for="3" value="expressed concern about the COP’s failure to adopt" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="a compromise must be reached soon" target="KUWAIT" id="33">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="104" />
+          <attvalue for="3" value="said that a compromise must be reached soon" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="KUWAIT" target="a written report accompany SBSTA decisions" id="34">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="121" />
+          <attvalue for="3" value="suggested" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="KUWAIT" target="the issue to SBSTA-16" id="35">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="294" />
+          <attvalue for="3" value="proposed deferring" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="KUWAIT" target="a contact group discussion" id="36">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="459" />
+          <attvalue for="3" value="urged" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="an information center/clearinghouse for technology transfer" id="37">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="161" />
+          <attvalue for="3" value="called for the establishment of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="enhanced data collection at regional and subregional levels" id="38">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="188" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="VENEZUELA" target="a written report accompany SBSTA decisions" id="39">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="121" />
+          <attvalue for="3" value="suggested" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="INDIA" target="a paragraph that calls on the CGE to consider steps taken or envisaged by the Party to implement the FCCC" id="40">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="168" />
+          <attvalue for="3" value="proposed deletion of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="INDIA" target="Annex I countries have the main responsibility" id="41">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="579" />
+          <attvalue for="3" value="said" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="INDIA" target="Available" id="42">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="351" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="PAKISTAN" target="to reflect regional differences in climate change" id="43">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="128" />
+          <attvalue for="3" value="thought the SAR should be amended" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="PAKISTAN" target="delete the name of Turkey from Annexes I and II of the FCCC" id="44">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="297" />
+          <attvalue for="3" value="proposal by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="PAKISTAN" target="capacity building" id="45">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="83" />
+          <attvalue for="3" value="said work at COP-9 must focus on" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="to reflect regional differences in climate change" target="GEORGIA" id="46">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="128" />
+          <attvalue for="3" value="thought the SAR should be amended" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="a separate informal session to revise the guidelines" id="47">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="135" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="the early signing and ratification of the Protocol" id="48">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="555" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="the momentum of Kyoto" id="49">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="571" />
+          <attvalue for="3" value="stressed the need to maintain" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="consideration of compensation" id="50">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="241" />
+          <attvalue for="3" value="said consideration of compensation was unacceptable" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="both technical workshops and intersessional meetings should be held prior to COP-6" id="51">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="348" />
+          <attvalue for="3" value="said both technical workshops and intersessional meetings should be held prior to COP-6" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="a single body exercising its facilitative and enforcement functions in a graduated manner" id="52">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="427" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice" id="53">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="487" />
+          <attvalue for="3" value="stated that further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="President Elyazghi’s intention to consult and report back to the COP before the High-Level Segment on the agenda item “second review of the adequacy of Article 4”" id="54">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="86" />
+          <attvalue for="3" value="welcomed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="clarity on the meaning of “sound” rules" id="55">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="593" />
+          <attvalue for="3" value="request" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="amendments" id="56">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="352" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="the role of public-private partnerships" id="57">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="140" />
+          <attvalue for="3" value="emphasized" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="an amendment" id="58">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="459" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="reference to other conventions and multilateral organizations" id="59">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="286" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="a role for the GEF" id="60">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="438" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="the EU and CANADA" id="61">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="260" />
+          <attvalue for="3" value="proposals by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="a high-level CSD forum on environment and energy to prepare an upcoming CSD session dedicated to establishing a common strategy for a sustainable energy future" id="62">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="284" />
+          <attvalue for="3" value="proposal for a high-level CSD forum on environment and energy to prepare an upcoming CSD session dedicated to establishing a common strategy for a sustainable energy future" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="national legal and financial systems" id="63">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="367" />
+          <attvalue for="3" value="stressed the importance of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="the paragraph" id="64">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="377" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="to leave the debate to the high-level segment" id="65">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="250" />
+          <attvalue for="3" value="supported the US proposal" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="the momentum of Kyoto" id="66">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="571" />
+          <attvalue for="3" value="stressed the need to maintain" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="such an outcome" id="67">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="715" />
+          <attvalue for="3" value="had reasons to promote" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="a draft decision on capacity building" id="68">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="184" />
+          <attvalue for="3" value="incorporated submissions from the EU" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice" id="69">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="487" />
+          <attvalue for="3" value="stated that further discussion on technical aspects should only occur after the completion of the IPCC’s work on good practice" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="a proposal by Argentina to remove brackets from text on national communications" id="70">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="169" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="future work on P&amp;Ms should contribute to an assessment of demonstrable progress of Annex I Parties in achieving their Protocol commitments" id="71">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="586" />
+          <attvalue for="3" value="under-scored" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="Several alternative texts to the Co-Chairs’ proposal" id="72">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="250" />
+          <attvalue for="3" value="were put forward by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="package deal" id="73">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="252" />
+          <attvalue for="3" value="struck" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="the possibility for the Compliance Committee to receive questions of implementation submitted by a Party with respect to another Party" id="74">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="258" />
+          <attvalue for="3" value="was supported by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="Available" id="75">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="factoring out" id="76">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="180" />
+          <attvalue for="3" value="highlighted the importance of factoring out" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="implementation of decision 5/CP" id="77">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="300" />
+          <attvalue for="3" value="emphasized the need to discuss" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="the proposal" id="78">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="636" />
+          <attvalue for="3" value="supported further consideration of the proposal" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="a role for the GEF" id="79">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="438" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="the inclusion of a reference already binding Parties to the inclusion of a list of options or a “menu”" id="80">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="310" />
+          <attvalue for="3" value="objected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="guidelines for a possible referral to the compliance body" id="81">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="434" />
+          <attvalue for="3" value="suggested" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="the defending party should be able to rebut evidence against it" id="82">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="441" />
+          <attvalue for="3" value="said the defending party should be able to rebut evidence against it" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="Available" id="83">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="482" />
+          <attvalue for="3" value="proposed including" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="a non-binding regime" id="84">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="561" />
+          <attvalue for="3" value="argued for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="President Elyazghi’s intention to consult and report back to the COP before the High-Level Segment on the agenda item “second review of the adequacy of Article 4”" id="85">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="86" />
+          <attvalue for="3" value="welcomed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="relevant draft conclusions" id="86">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="421" />
+          <attvalue for="3" value="reached agreement" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="amendments" id="87">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="352" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="PHILIPPINES" target="capacity building and analysis of social impacts for AIJ projects" id="88">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="152" />
+          <attvalue for="3" value="highlighted the need for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="capacity building and analysis of social impacts for AIJ projects" target="EL SALVADOR" id="89">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="152" />
+          <attvalue for="3" value="highlighted the need for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="increased use of renewable energy sources" id="90">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="84" />
+          <attvalue for="3" value="called for increased use of renewable energy sources" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="a G-77/CHINA-proposed reference to the principle of common but differentiated responsibilities" id="91">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="198" />
+          <attvalue for="3" value="objected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="an intergovernmental process on financial issues" id="92">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="441" />
+          <attvalue for="3" value="introduced" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="overlap with the second Global Stocktake (GST 2)" id="93">
+        <attvalues>
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="40" />
+          <attvalue for="3" value="stressed that it should not overlap with the second Global Stocktake (GST 2)" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="AIJ workshops until after COP-3" id="94">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="155" />
+          <attvalue for="3" value="suggested postponing" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="phasing out subsidies in developing countries" id="95">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="265" />
+          <attvalue for="3" value="are opposed to" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="NORWAY’s call for measures to improve food security for the urban poor" id="96">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="340" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="further negotiation on the text" id="97">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="331" />
+          <attvalue for="3" value="said the Chair should not allow further negotiation on the text" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="a binding commitment at COP-5 to abate its greenhouse gas emissions" id="98">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="652" />
+          <attvalue for="3" value="to signal its willingness to undertake" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="changing the guidelines for non-Annex I communications" id="99">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="149" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="a paragraph that calls on the CGE to consider steps taken or envisaged by the Party to implement the FCCC" id="100">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="168" />
+          <attvalue for="3" value="proposed deletion of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="Annex I countries have the main responsibility" id="101">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="579" />
+          <attvalue for="3" value="said" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="many Annex I Parties are significantly exceeding 1990 levels" id="102">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="582" />
+          <attvalue for="3" value="expressed disappointment" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="a concrete implementation work programme" id="103">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="430" />
+          <attvalue for="3" value="stressed the importance of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="second national communications" id="104">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="376" />
+          <attvalue for="3" value="urged accelerated funding for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AIJ workshops until after COP-3" target="MALAYSIA" id="105">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="155" />
+          <attvalue for="3" value="suggested postponing" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="an intergovernmental process on financial issues" id="106">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="441" />
+          <attvalue for="3" value="introduced" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="consistency in policies between different environmental fora" id="107">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="603" />
+          <attvalue for="3" value="sought" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="additional activities under Protocol Article 3" id="108">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="651" />
+          <attvalue for="3" value="opposed inclusion of" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="joint research projects between developed and developing countries" id="109">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="395" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="a concrete implementation work programme" id="110">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="430" />
+          <attvalue for="3" value="stressed the importance of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="the EU and CANADA" id="111">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="260" />
+          <attvalue for="3" value="proposals by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="work on inventories for sources of new technologies and gap identification" id="112">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="228" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="CANADA and the US" id="113">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="414" />
+          <attvalue for="3" value="Supported by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="both technical workshops and intersessional meetings should be held prior to COP-6" id="114">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="348" />
+          <attvalue for="3" value="said both technical workshops and intersessional meetings should be held prior to COP-6" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="clarity on the meaning of “sound” rules" id="115">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="593" />
+          <attvalue for="3" value="request" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="Available" id="116">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="557" />
+          <attvalue for="3" value="should consider" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="the proposal" id="117">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="403" />
+          <attvalue for="3" value="said the proposal deserved further consideration" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="it" id="118">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="608" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="NEW ZEALAND" target="Available" id="119">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="351" />
+          <attvalue for="3" value="Opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="NEW ZEALAND" target="an amendment" id="120">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="459" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="references to timetables and targets" id="121">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="deleted" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="phasing out subsidies in developing countries" id="122">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="265" />
+          <attvalue for="3" value="are opposed to" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="NORWAY’s call for measures to improve food security for the urban poor" id="123">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="340" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="voluntary commitments" id="124">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="106" />
+          <attvalue for="3" value="could destroy the unity of" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="a binding commitment at COP-5 to abate its greenhouse gas emissions" id="125">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="652" />
+          <attvalue for="3" value="to break ranks with most of its partners" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="changing the guidelines for non-Annex I communications" id="126">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="149" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="a draft decision on capacity building" id="127">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="185" />
+          <attvalue for="3" value="welcomed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="LULUCF" id="128">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="312" />
+          <attvalue for="3" value="said any consideration of the LULUCF" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="an assessment of the actions of Annex I Parties in striving to implement P&amp;Ms in such a way as to minimize adverse effects" id="129">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="585" />
+          <attvalue for="3" value="call by the G-77/China and Saudi Arabia for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="future work on P&amp;Ms should contribute to an assessment of demonstrable progress of Annex I Parties in achieving their Protocol commitments" id="130">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="586" />
+          <attvalue for="3" value="under-scored" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="the possibility for the Compliance Committee to receive questions of implementation submitted by a Party with respect to another Party" id="131">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="258" />
+          <attvalue for="3" value="was supported by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="the inclusion of developing country scientists" id="132">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="291" />
+          <attvalue for="3" value="stressed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="ratification of the Protocol" id="133">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="549" />
+          <attvalue for="3" value="said the agreement marked the “end of a long journey” toward achieving ratification of the Protocol" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="the text" id="134">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="346" />
+          <attvalue for="3" value="accepted" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="factoring out" id="135">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="180" />
+          <attvalue for="3" value="highlighted the importance of factoring out" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="G-77/CHINA" target="prioritizing adaptation" id="136">
+        <attvalues>
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="highlighted their support for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="enhanced data collection at regional and subregional levels" target="BURKINA FASO" id="137">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="188" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AOSIS" target="many Annex I Parties are significantly exceeding 1990 levels" id="138">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="582" />
+          <attvalue for="3" value="expressed disappointment" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="AOSIS" target="overlap with the second Global Stocktake (GST 2)" id="139">
+        <attvalues>
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="40" />
+          <attvalue for="3" value="stressed that it should not overlap with the second Global Stocktake (GST 2)" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="AOSIS" target="prioritizing adaptation" id="140">
+        <attvalues>
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="highlighted their support for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="their statements on the Ministerial Declaration be annexed to the report" id="141">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="518" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="a non-binding regime" id="142">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="561" />
+          <attvalue for="3" value="argued for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="this course of action" id="143">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="495" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="voluntary commitments" id="144">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="629" />
+          <attvalue for="3" value="to develop procedures for the approval of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="it" id="145">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="608" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="THAILAND" target="additional activities under Protocol Article 3" id="146">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="651" />
+          <attvalue for="3" value="opposed inclusion of" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="THAILAND" target="joint research projects between developed and developing countries" id="147">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="395" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="GHANA" target="scientific uncertainty should not be used as an excuse for inaction" id="148">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="566" />
+          <attvalue for="3" value="said scientific uncertainty should not be used as an excuse for inaction" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="INDONESIA" target="capacity building" id="149">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="368" />
+          <attvalue for="3" value="sought assistance with" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="INDONESIA" target="the issue" id="150">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="supported discussion of the issue" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="capacity building" target="UGANDA" id="151">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="368" />
+          <attvalue for="3" value="sought assistance with" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UGANDA" target="the G-77/CHINA position" id="152">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="452" />
+          <attvalue for="3" value="rejected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="UGANDA" target="a special fund for developing countries other than LDCs" id="153">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="524" />
+          <attvalue for="3" value="appealed for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UGANDA" target="ratification of the Protocol" id="154">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="530" />
+          <attvalue for="3" value="said the Declaration should call for the ratification of the Protocol" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SLOVENIA" target="the change" id="155">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="480" />
+          <attvalue for="3" value="opposed" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SLOVENIA" target="the early signing and ratification of the Protocol" id="156">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="555" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SUDAN" target="international cooperation to revive traditional means of transportation and enhanced energy efficiency" id="157">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="393" />
+          <attvalue for="3" value="encouraged" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="international cooperation to revive traditional means of transportation and enhanced energy efficiency" target="TURKMENISTAN" id="158">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="393" />
+          <attvalue for="3" value="encouraged" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH KOREA" target="work on inventories for sources of new technologies and gap identification" id="159">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="228" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SWEDEN" target="coordinated measures in taxation" id="160">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="396" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="coordinated measures in taxation" target="DENMARK" id="161">
+        <attvalues>
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="396" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="DENMARK" target="an intergovernmental panel on energy" id="162">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="85" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="DENMARK" target="the LDC Fund" id="163">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="523" />
+          <attvalue for="3" value="pledged support" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="FINLAND" target="the LDC Fund" id="164">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="523" />
+          <attvalue for="3" value="pledged support" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="ICELAND" target="increased use of renewable energy sources" id="165">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="84" />
+          <attvalue for="3" value="called for increased use of renewable energy sources" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="ARGENTINA" target="the original text on family and maternal health care" id="166">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="226" />
+          <attvalue for="3" value="preferred" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="ARGENTINA" target="voluntary commitments" id="167">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="127" />
+          <attvalue for="3" value="said no aspect of the FCCC and the Protocol limited its ability to raise the issue of" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="ARGENTINA" target="reference to other conventions and multilateral organizations" id="168">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="286" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="JAMAICA" target="detailed and rigorous reporting" id="169">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="118" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SWITZERLAND" target="an intergovernmental panel on energy" id="170">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="85" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SWITZERLAND" target="a single body exercising its facilitative and enforcement functions in a graduated manner" id="171">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="427" />
+          <attvalue for="3" value="proposed" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SWITZERLAND" target="a text proposed by Canada urging Parties to ensure early payment of contributions" id="172">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="452" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="the original text on family and maternal health care" target="MALTA" id="173">
+        <attvalues>
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="226" />
+          <attvalue for="3" value="preferred" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="this course of action" id="174">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="495" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MEXICO" target="consistency in policies between different environmental fora" id="175">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="603" />
+          <attvalue for="3" value="sought" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MEXICO" target="Available" id="176">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="215" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BANGLADESH" target="special attention to LDCs’ needs" id="177">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="593" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="COLOMBIA" target="a “pick-and-choose” approach under Article 3" id="178">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="403" />
+          <attvalue for="3" value="cautioned against" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="COLOMBIA" target="relevant draft conclusions" id="179">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="421" />
+          <attvalue for="3" value="reached agreement" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BRAZIL" target="adverse impacts of climate change" id="180">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="605" />
+          <attvalue for="3" value="called for further discussions" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BRAZIL" target="second national communications" id="181">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="376" />
+          <attvalue for="3" value="urged accelerated funding for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="the issue" target="PAPUA NEW GUINEA" id="182">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="208" />
+          <attvalue for="3" value="request by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="the issue" target="COSTA RICA" id="183">
+        <attvalues>
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="208" />
+          <attvalue for="3" value="request by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="AFRICAN GROUP" target="slow progress on technology transfer" id="184">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="621" />
+          <attvalue for="3" value="expressed disappointment" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH AFRICA" target="the G-77/CHINA position" id="185">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="452" />
+          <attvalue for="3" value="rejected" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH AFRICA" target="clear rules for information gathering" id="186">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="440" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH AFRICA" target="the adaptation levy on the CDM should also apply to the other mechanisms" id="187">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="645" />
+          <attvalue for="3" value="said the adaptation levy on the CDM should also apply to the other mechanisms" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH AFRICA" target="Available" id="188">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="658" />
+          <attvalue for="3" value="support" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BOLIVIA" target="a “pick-and-choose” approach under Article 3" id="189">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="403" />
+          <attvalue for="3" value="cautioned against" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="CROATIA" target="LULUCF" id="190">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="461" />
+          <attvalue for="3" value="proposal" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="adverse impacts of climate change" target="KENYA" id="191">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="605" />
+          <attvalue for="3" value="called for further discussions" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="KENYA" target="a special fund for developing countries other than LDCs" id="192">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="524" />
+          <attvalue for="3" value="appealed for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="such an outcome" target="UMBRELLA GROUP" id="193">
+        <attvalues>
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="715" />
+          <attvalue for="3" value="had reasons to promote" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UMBRELLA GROUP" target="Several alternative texts to the Co-Chairs’ proposal" id="194">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="250" />
+          <attvalue for="3" value="were put forward by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UMBRELLA GROUP" target="package deal" id="195">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="252" />
+          <attvalue for="3" value="struck" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UMBRELLA GROUP" target="the text" id="196">
+        <attvalues>
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="392" />
+          <attvalue for="3" value="to agree to the text" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="UMBRELLA GROUP" target="a new and different mandate" id="197">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="157" />
+          <attvalue for="3" value="stressed the need for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MARSHALL ISLANDS" target="detailed and rigorous reporting" id="198">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="118" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="MARSHALL ISLANDS" target="consideration of compensation" id="199">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="241" />
+          <attvalue for="3" value="said consideration of compensation was unacceptable" />
+          <attvalue for="4" value="opposition" />
+        </attvalues>
+      </edge>
+      <edge source="SENEGAL" target="a Climate Change Day" id="200">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="432" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="delete the name of Turkey from Annexes I and II of the FCCC" target="AZERBAIJAN" id="201">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="297" />
+          <attvalue for="3" value="proposal by" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BHUTAN" target="special attention to LDCs’ needs" id="202">
+        <attvalues>
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="593" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BULGARIA" target="a text proposed by Canada urging Parties to ensure early payment of contributions" id="203">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="452" />
+          <attvalue for="3" value="supported" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="the adaptation levy on the CDM should also apply to the other mechanisms" target="TANZANIA" id="204">
+        <attvalues>
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="645" />
+          <attvalue for="3" value="said the adaptation levy on the CDM should also apply to the other mechanisms" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="a Climate Change Day" target="CENTRAL AFRICAN REPUBLIC" id="205">
+        <attvalues>
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="432" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="NAMIBIA" target="the Protocol" id="206">
+        <attvalues>
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="538" />
+          <attvalue for="3" value="announced its ratification of" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="Maldives" target="technology transfer to address adaptation needs in SIDS" id="207">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="644" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="technology transfer to address adaptation needs in SIDS" target="Mauritius" id="208">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="644" />
+          <attvalue for="3" value="called for" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="Global Unions" target="employment considerations in the IPCC reports" id="209">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="675" />
+          <attvalue for="3" value="urged to include employment considerations in the IPCC reports" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="employment considerations in the IPCC reports" target="International Confederation of Free Trade Unions" id="210">
+        <attvalues>
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="675" />
+          <attvalue for="3" value="urged to include employment considerations in the IPCC reports" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+      <edge source="BELARUS" target="the proposal" id="211">
+        <attvalues>
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="636" />
+          <attvalue for="3" value="supported further consideration of the proposal" />
+          <attvalue for="4" value="support" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

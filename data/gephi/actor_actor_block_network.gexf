@@ -1,0 +1,820 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-13">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="dynamic" name="" timeformat="date">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="positive_count" type="string" />
+      <attribute id="1" title="negative_count" type="string" />
+      <attribute id="2" title="sign" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AOSIS" label="AOSIS" />
+      <node id="EUROPEAN UNION" label="EUROPEAN UNION" />
+      <node id="AUSTRALIA" label="AUSTRALIA" />
+      <node id="USA" label="USA" />
+      <node id="BRAZIL" label="BRAZIL" />
+      <node id="PERU" label="PERU" />
+      <node id="BURKINA FASO" label="BURKINA FASO" />
+      <node id="IRAN" label="IRAN" />
+      <node id="CHINA" label="CHINA" />
+      <node id="MALAYSIA" label="MALAYSIA" />
+      <node id="DENMARK" label="DENMARK" />
+      <node id="SWEDEN" label="SWEDEN" />
+      <node id="EL SALVADOR" label="EL SALVADOR" />
+      <node id="PHILIPPINES" label="PHILIPPINES" />
+      <node id="GEORGIA" label="GEORGIA" />
+      <node id="INDIA" label="INDIA" />
+      <node id="PAKISTAN" label="PAKISTAN" />
+      <node id="INDONESIA" label="INDONESIA" />
+      <node id="UGANDA" label="UGANDA" />
+      <node id="JAPAN" label="JAPAN" />
+      <node id="KUWAIT" label="KUWAIT" />
+      <node id="SAUDI ARABIA" label="SAUDI ARABIA" />
+      <node id="VENEZUELA" label="VENEZUELA" />
+      <node id="Parties" label="Parties" />
+      <node id="SBI" label="SBI" />
+      <node id="SBSTA" label="SBSTA" />
+      <node id="RUSSIA" label="RUSSIA" />
+      <node id="SBSTA and SBI contact group" label="SBSTA and SBI contact group" />
+      <node id="SUDAN" label="SUDAN" />
+      <node id="TURKMENISTAN" label="TURKMENISTAN" />
+      <node id="ARGENTINA" label="ARGENTINA" />
+      <node id="MALTA" label="MALTA" />
+      <node id="BANGLADESH" label="BANGLADESH" />
+      <node id="NORWAY" label="NORWAY" />
+      <node id="CANADA" label="CANADA" />
+      <node id="G-77/CHINA" label="G-77/CHINA" />
+      <node id="SWITZERLAND" label="SWITZERLAND" />
+      <node id="ICELAND" label="ICELAND" />
+      <node id="ANTIGUA" label="ANTIGUA" />
+      <node id="BARBUDA" label="BARBUDA" />
+      <node id="KENYA" label="KENYA" />
+      <node id="SOUTH KOREA" label="SOUTH KOREA" />
+      <node id="G-77" label="G-77" />
+      <node id="UMBRELLA GROUP" label="UMBRELLA GROUP" />
+      <node id="GHANA" label="GHANA" />
+      <node id="UK" label="UK" />
+      <node id="SLOVENIA" label="SLOVENIA" />
+      <node id="SOUTH AFRICA" label="SOUTH AFRICA" />
+      <node id="AZERBAIJAN" label="AZERBAIJAN" />
+      <node id="BHUTAN" label="BHUTAN" />
+      <node id="COP-5" label="COP-5" />
+      <node id="SBI-11" label="SBI-11" />
+      <node id="JAMAICA" label="JAMAICA" />
+      <node id="MARSHALL ISLANDS" label="MARSHALL ISLANDS" />
+      <node id="KAZAKHSTAN" label="KAZAKHSTAN" />
+      <node id="TURKEY" label="TURKEY" />
+      <node id="MEXICO" label="MEXICO" />
+      <node id="BOLIVIA" label="BOLIVIA" />
+      <node id="COLOMBIA" label="COLOMBIA" />
+      <node id="NEW ZEALAND" label="NEW ZEALAND" />
+      <node id="THAILAND" label="THAILAND" />
+      <node id="TANZANIA" label="TANZANIA" />
+      <node id="CENTRAL AFRICAN REPUBLIC" label="CENTRAL AFRICAN REPUBLIC" />
+      <node id="SENEGAL" label="SENEGAL" />
+      <node id="BULGARIA" label="BULGARIA" />
+      <node id="FINLAND" label="FINLAND" />
+      <node id="Maldives" label="Maldives" />
+      <node id="Mauritius" label="Mauritius" />
+      <node id="TRINIDAD AND TOBAGO" label="TRINIDAD AND TOBAGO" />
+      <node id="COSTA RICA" label="COSTA RICA" />
+      <node id="PAPUA NEW GUINEA" label="PAPUA NEW GUINEA" />
+      <node id="AFRICAN GROUP" label="AFRICAN GROUP" />
+      <node id="COP" label="COP" />
+      <node id="BELARUS" label="BELARUS" />
+      <node id="UKRAINE" label="UKRAINE" />
+    </nodes>
+    <edges>
+      <edge source="AOSIS" target="EUROPEAN UNION" id="0" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AOSIS" target="G-77/CHINA" id="1" weight="1" start="2024" end="2024">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AOSIS" target="NORWAY" id="2" weight="1" start="2024" end="2024">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="CANADA" id="3" weight="1" start="2006" end="2006">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="USA" id="4" weight="1" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="JAPAN" id="5" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="UMBRELLA GROUP" id="6" weight="2" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="G-77/CHINA" id="7" weight="1" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="ARGENTINA" id="8" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="MEXICO" id="9" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="SAUDI ARABIA" id="10" weight="2" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="EUROPEAN UNION" target="BELARUS" id="11" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="USA" id="12" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="BANGLADESH" id="13" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="MALAYSIA" id="14" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="NORWAY" id="15" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="RUSSIA" id="16" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="COLOMBIA" id="17" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="AUSTRALIA" target="JAPAN" id="18" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="IRAN" id="19" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="JAPAN" id="20" weight="1" start="2005" end="2005">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="BANGLADESH" id="21" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="CANADA" id="22" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="G-77/CHINA" id="23" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="MALAYSIA" id="24" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="NORWAY" id="25" weight="3" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="SLOVENIA" id="26" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="ARGENTINA" id="27" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="GHANA" id="28" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="PAPUA NEW GUINEA" id="29" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="UMBRELLA GROUP" id="30" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BRAZIL" target="PERU" id="31" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BRAZIL" target="KENYA" id="32" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BRAZIL" target="CHINA" id="33" weight="1" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BURKINA FASO" target="IRAN" id="34" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="MALAYSIA" id="35" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="G-77/CHINA" id="36" weight="4" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="G-77" id="37" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="SAUDI ARABIA" id="38" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="INDIA" id="39" weight="2" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="BANGLADESH" id="40" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="NORWAY" id="41" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="MEXICO" id="42" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="MALAYSIA" target="THAILAND" id="43" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="DENMARK" target="SWEDEN" id="44" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="DENMARK" target="SWITZERLAND" id="45" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="DENMARK" target="FINLAND" id="46" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EL SALVADOR" target="PHILIPPINES" id="47" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="GEORGIA" target="INDIA" id="48" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="GEORGIA" target="PAKISTAN" id="49" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="INDIA" target="PAKISTAN" id="50" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="INDIA" target="NEW ZEALAND" id="51" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="PAKISTAN" target="AZERBAIJAN" id="52" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="INDONESIA" target="UGANDA" id="53" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UGANDA" target="SOUTH AFRICA" id="54" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UGANDA" target="KENYA" id="55" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="CANADA" id="56" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="NORWAY" id="57" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="SLOVENIA" id="58" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="MARSHALL ISLANDS" id="59" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="SWITZERLAND" id="60" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="NEW ZEALAND" id="61" weight="1" start="2005" end="2005">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="ARGENTINA" id="62" weight="1" start="2006" end="2006">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="COLOMBIA" id="63" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="JAPAN" target="PAPUA NEW GUINEA" id="64" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="KUWAIT" target="SAUDI ARABIA" id="65" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="KUWAIT" target="VENEZUELA" id="66" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="RUSSIA" id="67" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="SOUTH AFRICA" id="68" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="G-77/CHINA" id="69" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="MEXICO" id="70" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI ARABIA" target="AFRICAN GROUP" id="71" weight="1" start="2006" end="2006">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="Parties" target="SBI" id="72" weight="2" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="Parties" target="SBSTA" id="73" weight="2" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SBI" target="SBSTA" id="74" weight="2" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SBI" target="SBSTA and SBI contact group" id="75" weight="2" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SBSTA" target="SBSTA and SBI contact group" id="76" weight="2" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="CANADA" id="77" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="UKRAINE" id="78" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SUDAN" target="TURKMENISTAN" id="79" weight="1" start="1996" end="1996">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="ARGENTINA" target="MALTA" id="80" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BANGLADESH" target="NORWAY" id="81" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BANGLADESH" target="BHUTAN" id="82" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="CANADA" id="83" weight="3" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="G-77/CHINA" id="84" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NORWAY" target="ICELAND" id="85" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="G-77/CHINA" id="86" weight="1" start="1997" end="1997">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="SOUTH KOREA" id="87" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="BULGARIA" id="88" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CANADA" target="SWITZERLAND" id="89" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SWITZERLAND" target="BULGARIA" id="90" weight="1" start="2002" end="2002">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="ANTIGUA" target="BARBUDA" id="91" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="GHANA" target="UK" id="92" weight="1" start="1998" end="1998">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="TRINIDAD AND TOBAGO" id="93" weight="1" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SOUTH AFRICA" target="TANZANIA" id="94" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="COP-5" target="SBI-11" id="95" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="JAMAICA" target="MARSHALL ISLANDS" id="96" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="KAZAKHSTAN" target="TURKEY" id="97" weight="1" start="1999" end="1999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="KAZAKHSTAN" target="COP" id="98" weight="2" start="2006" end="2006">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BOLIVIA" target="COLOMBIA" id="99" weight="1" start="2000" end="2000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="COLOMBIA" target="PAPUA NEW GUINEA" id="100" weight="1" start="2007" end="2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CENTRAL AFRICAN REPUBLIC" target="SENEGAL" id="101" weight="1" start="2001" end="2001">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="Maldives" target="Mauritius" id="102" weight="1" start="2003" end="2003">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="COSTA RICA" target="PAPUA NEW GUINEA" id="103" weight="1" start="2005" end="2005">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="positive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
